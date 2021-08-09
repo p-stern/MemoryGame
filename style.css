@@ -1,0 +1,18 @@
+#game div {
+  border: 1px solid black;
+  width: 16%;
+  height: 202px;
+  margin: 10px;
+  display: inline-block;
+}
+
+.btn {
+  border: 1px solid indigo;
+  background-color: palevioletred;
+  font-size: medium;
+  border-radius:30px;
+  width: 15%;
+  height: 40px;
+  margin: 2px;
+  display: inline-block;
+}
